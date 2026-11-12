@@ -14,7 +14,7 @@ name = "fms-guardrails-orchestr8"
 path = "src/main.rs"
 
 [dependencies]
-anyhow = "1.0.83"
+anyhow = "1.0.103"
 axum = { version = "0.7.5", features = ["json"] }
 clap = { version = "4.5.3", features = ["derive", "env"] }
 futures = "0.3.30"
