@@ -37,7 +37,7 @@ tokio-stream = { version = "0.1.15", features = ["sync"] }
 tonic = { version = "0.11.0", features = ["tls"] }
 tower-service = "0.3"
 tracing = "0.1.40"
-tracing-subscriber = { version = "0.3.18", features = ["json", "env-filter"] }
+tracing-subscriber = { version = "0.3.20", features = ["json", "env-filter"] }
 url = "2.5.0"
 uuid = { version = "1.8.0", features = ["v4", "fast-rng"] }
 async-trait = "0.1.80"
